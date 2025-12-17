@@ -53,7 +53,7 @@ The script will process the input by performing the following steps sequentially
 1. Load the input frame.
 2. Use the YOLOv3 model to detect faces.
 3. Crop the detected face based on the bounding box.
-4. Use the MobileNetV2 model to classify the emotion (Happy, Sad, Angry, Surprise).
+4. Use the MobileNetV2 model to classify the emotion (Happy, Sad, Angry, Surprised, Unknown).
 5. Draw bounding boxes and the predicted emotion label on the output frame.
 
 **🎯 Results:**
