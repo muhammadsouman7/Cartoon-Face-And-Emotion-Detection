@@ -60,6 +60,11 @@ The script will process the input by performing the following steps sequentially
 
 The integrated DNN approach demonstrated high efficiency in recognizing emotions in cartoons, achieving a benchmark accuracy of 96.87% on the validation set.
 
+**👥 Contributors:**
+1. Muhammad Souman 
+2. Alishba Nadeem
+3. Ilsa Javed
+
 **📄 Reference:**
 
 The system architecture and dataset were developed based on the research presented in the paper:
