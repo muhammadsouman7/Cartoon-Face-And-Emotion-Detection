@@ -62,8 +62,11 @@ The integrated DNN approach demonstrated high efficiency in recognizing emotions
 
 **👥 Contributors:**
 1. Muhammad Souman - GitHub Profile: https://github.com/muhammadsouman7
-2. Alishba Nadeem - GitHub Profile https://github.com/Alishba-Nadeem1
-3. Ilsa Javed
+2. Alishba Nadeem - GitHub Profile: https://github.com/Alishba-Nadeem1
+3. Shaaf Khan - GitHub Profile: https://github.com/shaafkhan10k
+4. Ilsa Javed
+5. Anas Waqas
+6. Raja Amman Shakir
 
 **📄 Reference:**
 
